@@ -1,0 +1,18 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+}
+
+button{
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size: 28px;
+    border-color: white;
+    padding: 20px 40px;
+    border-radius: 50px;
+    background: #00000004;
+    color: white;
+}
